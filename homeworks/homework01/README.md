@@ -66,6 +66,7 @@ The issue comes first, so that every file and commit afterwards points back to i
 1. Make at least three commits, each with a message ending in a space followed by `#1`, for example `Add experiment log for transfection test #1`. (6 points)
 2. Push every commit, and confirm all three appear in the repository commit list on GitHub. Saved files and local commits alone are not a submission. (4 points)
 3. Open issue 1 and confirm your commits appear in its timeline. Record one of those commit URLs for your submission. (4 points)
+https://github.com/taylorkatie923/tfcb_2026_demo/commit/273a5a9f1405c70fd0af7cecd9fd0efb40b85ad1
 4. Add a comment on issue 1 giving the result in one paragraph, with a link to the log file. (4 points)
 5. Close issue 1 as completed once the log is pushed. (2 points)
 
