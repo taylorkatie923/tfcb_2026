@@ -75,6 +75,12 @@ tfcb_2023/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 9... )
 
-_Paste your SCRIPT here (not the output)_
 
+#!/usr/bin/env bash
+
+mkdir question02
+
+for i in `cat list.txt`; do 
+cat ~/Documents/git/tfcb_2026/lectures/lecture04/vader.txt > ~/Documents/git/tfcb_2026/homeworks/homework02/question02/file${i}.txt ; 
+done
 

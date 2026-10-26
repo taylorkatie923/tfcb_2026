@@ -32,4 +32,4 @@ Collaborator usernames:
 - `c-resnick`
 - `vbrow29`
 
-I acknowledge Claude AI for assistance in interpreting some homework quesions and for helping me in creating both figures. I checked its output with the help of my PI and against the scEcho tutorial. I acknowledge that I remain responisble for accuracy of my records. I also acknowledge Carmen Resnick and Rhiannon Roarke for letting me know that the homework assignment had been changed after the first day of class. I had already done the homework assignment (Homework #1) that was on the github on the first day of class, and without their assistance, I would have submitted the wrong assignment. 
+I acknowledge Claude AI for assistance in interpreting some homework quesions and for helping me in creating both figures. I checked its output with the help of my PI and against the scEcho tutorial. I acknowledge that I remain responisble for accuracy of my records. I also acknowledge Carmen Resnick and Rhiannon Roarke for help with questions regarding the logistics of the homework. 

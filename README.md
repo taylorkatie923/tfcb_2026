@@ -97,6 +97,7 @@ Rather, you should be equipped with foundational knowledge in reproducible compu
   requires a background check).
 - Information about expectations for student conduct, disability resources, academic integrity, and religious
   accommodations can be found on [this page](https://registrar.washington.edu/staffandfaculty/syllabi-guidelines/).
+ErieWilliams98862*
 
 ## Instructors
 
